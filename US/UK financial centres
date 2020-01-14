@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.008827,
+            40.706005
+          ],
+          [
+            -0.118092,
+            51.509865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wall Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.008827,
+          40.706005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118092,
+          51.509865
+        ]
+      }
+    }
+  ]
+}
