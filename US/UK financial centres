@@ -21,6 +21,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Wall Street"
       },
       "geometry": {
@@ -34,6 +37,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
         "name": "City of London"
       },
       "geometry": {
